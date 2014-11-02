@@ -70,14 +70,19 @@
 
 -(void)update:(CCTime)delta{
     
-    BOOL checkIfLogged = FBSession.activeSession.isOpen;
     
+   /*
+    
+    ////fix this facebook bullshti.
+    
+    FBSession *session = [FBSession activeSession];
+    BOOL checkIfLogged = (session.state == FBSessionStateOpen);
+    
+    //NSLog(@"state = %d", session.state);
     if(checkIfLogged){
         NSLog(@"LOGGED IN FFUCKEERRR");
     }
-    
-    
-    
+    */
 }
 
 

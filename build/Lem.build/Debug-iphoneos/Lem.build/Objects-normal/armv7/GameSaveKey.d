@@ -1,2 +1,3 @@
-dependencies: /Users/jfletch1787/Desktop/JEngine/GameSave/GameSaveKey.m \
-  /Users/jfletch1787/Desktop/JEngine/GameSave/GameSaveKey.h
+dependencies: \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/GameSaveKey.m \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/GameSaveKey.h

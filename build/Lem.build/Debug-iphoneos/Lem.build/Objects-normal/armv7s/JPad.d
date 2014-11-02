@@ -1,5 +1,5 @@
-dependencies: /Users/jfletch1787/Desktop/JEngine/Hud/JPad.m \
-  /Users/jfletch1787/Desktop/JEngine/Hud/JPad.h \
+dependencies: /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/JPad.m \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/JPad.h \
   /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/cocos2d.h \
   /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/ccConfig.h \
   /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAction.h \
@@ -83,11 +83,11 @@ dependencies: /Users/jfletch1787/Desktop/JEngine/Hud/JPad.m \
   /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCProfiling.h \
   /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/NSThread+performBlock.h \
   /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/utlist.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/JEngine.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/GameState.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/macros.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/GameSave/GameSave.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/GameSave/GameSaveKey.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/Hud/JHud.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/JLevel.h \
-  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/../../../JEngine/JSprite.h
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/JEngine.h \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/GameState.h \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/macros.h \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/GameSave.h \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/GameSaveKey.h \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/JHud.h \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/JLevel.h \
+  /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/JSprite.h
