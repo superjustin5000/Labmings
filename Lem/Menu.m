@@ -25,7 +25,7 @@
     //test
     
     
-    //yata!
+    //yata!!
     
     [scene addChild:m];
     
