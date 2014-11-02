@@ -24,6 +24,9 @@
     
     //test
     
+    //////// new test
+    
+    
     [scene addChild:m];
     
     return scene;
