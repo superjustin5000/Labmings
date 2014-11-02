@@ -254,7 +254,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0029C59B1A06C95D0064FBEB /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = ../../../FacebookSDK/FacebookSDK.framework; sourceTree = "<group>"; };
 		0029C59D1A06CA1C0064FBEB /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FacebookSDK.framework; sourceTree = "<group>"; };
 		64051EE21995C149005B8378 /* flashLightShader.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = flashLightShader.vsh; sourceTree = "<group>"; };
 		6411B7DA1999C2CE00B87293 /* digMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = digMask.png; sourceTree = "<group>"; };
@@ -855,7 +854,6 @@
 			isa = PBXGroup;
 			children = (
 				0029C59D1A06CA1C0064FBEB /* FacebookSDK.framework */,
-				0029C59B1A06C95D0064FBEB /* FacebookSDK.framework */,
 				64E4BCF6196B1DBF001C021F /* QuartzCore.framework */,
 				64E4BCF8196B1DBF001C021F /* OpenGLES.framework */,
 				64E4BCFA196B1DBF001C021F /* OpenAL.framework */,
