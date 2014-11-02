@@ -21,8 +21,6 @@
 		6411B7F01999C2CE00B87293 /* digMaskRedSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 6411B7E41999C2CE00B87293 /* digMaskRedSmall.png */; };
 		6411B7F11999C2CE00B87293 /* digMaskSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 6411B7E51999C2CE00B87293 /* digMaskSmall.png */; };
 		6411B7F5199B90F800B87293 /* digMaskCircle.png in Resources */ = {isa = PBXBuildFile; fileRef = 6411B7F4199B90F800B87293 /* digMaskCircle.png */; };
-		6458D00919717C3300EA6441 /* spritesheet_test.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6458D00719717C3200EA6441 /* spritesheet_test.plist */; };
-		6458D00A19717C3300EA6441 /* spritesheet_test.png in Resources */ = {isa = PBXBuildFile; fileRef = 6458D00819717C3300EA6441 /* spritesheet_test.png */; };
 		6458D0101972CD1D00EA6441 /* PauseButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D00F1972CD1D00EA6441 /* PauseButton.m */; };
 		6458D013197360BA00EA6441 /* PauseLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D012197360BA00EA6441 /* PauseLayer.m */; };
 		6458D0191975CF1100EA6441 /* LemExit.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D0181975CF1100EA6441 /* LemExit.m */; };
@@ -41,16 +39,18 @@
 		649A65FF1A06BB250045A590 /* Level2.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FC1A06BB250045A590 /* Level2.tmx */; };
 		649A66001A06BB250045A590 /* TestLevel.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FD1A06BB250045A590 /* TestLevel.tmx */; };
 		649A66021A06BC570045A590 /* LevelEditor.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A66011A06BC570045A590 /* LevelEditor.tmx */; };
+		649A66081A06BE080045A590 /* pauseEffectMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 649A66031A06BE080045A590 /* pauseEffectMask.png */; };
+		649A66091A06BE080045A590 /* pauseEffectRGBStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = 649A66041A06BE080045A590 /* pauseEffectRGBStrip.png */; };
+		649A660A1A06BE080045A590 /* spritesheet_test.plist in Resources */ = {isa = PBXBuildFile; fileRef = 649A66051A06BE080045A590 /* spritesheet_test.plist */; };
+		649A660B1A06BE080045A590 /* spritesheet_test.png in Resources */ = {isa = PBXBuildFile; fileRef = 649A66061A06BE080045A590 /* spritesheet_test.png */; };
+		649A660C1A06BE080045A590 /* testCMF.png in Resources */ = {isa = PBXBuildFile; fileRef = 649A66071A06BE080045A590 /* testCMF.png */; };
 		64AC757E198A92A600709D6E /* LemStart.m in Sources */ = {isa = PBXBuildFile; fileRef = 64AC757D198A92A600709D6E /* LemStart.m */; };
 		64AC7581198E953200709D6E /* pauseEffectShader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 64AC7580198E953200709D6E /* pauseEffectShader.fsh */; };
-		64AC758B1991376000709D6E /* pauseEffectMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758A1991376000709D6E /* pauseEffectMask.png */; };
-		64AC758D199147B500709D6E /* pauseEffectRGBStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758C199147B500709D6E /* pauseEffectRGBStrip.png */; };
 		64B43F671994879D00805AA6 /* flashLightShader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 64B43F661994879D00805AA6 /* flashLightShader.fsh */; };
 		64CE551D198576B60038EA03 /* Menu.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551C198576B60038EA03 /* Menu.m */; };
 		64CE552019857A590038EA03 /* LevelEditor.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551F19857A590038EA03 /* LevelEditor.m */; };
 		64CE55251985804B0038EA03 /* LevelEditorBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CE55231985804B0038EA03 /* LevelEditorBG.png */; };
 		64D71CE8196F23C1005F1ABB /* JobButtons.m in Sources */ = {isa = PBXBuildFile; fileRef = 64D71CE7196F23C1005F1ABB /* JobButtons.m */; };
-		64E1FE95197ECB2C00C37A4C /* testCMF.png in Resources */ = {isa = PBXBuildFile; fileRef = 64E1FE94197ECB2C00C37A4C /* testCMF.png */; };
 		64E4BCF7196B1DBF001C021F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64E4BCF6196B1DBF001C021F /* QuartzCore.framework */; };
 		64E4BCF9196B1DBF001C021F /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64E4BCF8196B1DBF001C021F /* OpenGLES.framework */; };
 		64E4BCFB196B1DBF001C021F /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64E4BCFA196B1DBF001C021F /* OpenAL.framework */; };
@@ -267,8 +267,6 @@
 		6411B7E41999C2CE00B87293 /* digMaskRedSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = digMaskRedSmall.png; sourceTree = "<group>"; };
 		6411B7E51999C2CE00B87293 /* digMaskSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = digMaskSmall.png; sourceTree = "<group>"; };
 		6411B7F4199B90F800B87293 /* digMaskCircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = digMaskCircle.png; sourceTree = "<group>"; };
-		6458D00719717C3200EA6441 /* spritesheet_test.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = spritesheet_test.plist; path = "../../../APP FILES/Lem/test/spritesheet_test.plist"; sourceTree = "<group>"; };
-		6458D00819717C3300EA6441 /* spritesheet_test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spritesheet_test.png; path = "../../../APP FILES/Lem/test/spritesheet_test.png"; sourceTree = "<group>"; };
 		6458D00E1972CD1D00EA6441 /* PauseButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PauseButton.h; sourceTree = "<group>"; };
 		6458D00F1972CD1D00EA6441 /* PauseButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PauseButton.m; sourceTree = "<group>"; };
 		6458D011197360BA00EA6441 /* PauseLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PauseLayer.h; sourceTree = "<group>"; };
@@ -303,11 +301,14 @@
 		649A65FC1A06BB250045A590 /* Level2.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Level2.tmx; sourceTree = "<group>"; };
 		649A65FD1A06BB250045A590 /* TestLevel.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = TestLevel.tmx; sourceTree = "<group>"; };
 		649A66011A06BC570045A590 /* LevelEditor.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = LevelEditor.tmx; sourceTree = "<group>"; };
+		649A66031A06BE080045A590 /* pauseEffectMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseEffectMask.png; sourceTree = "<group>"; };
+		649A66041A06BE080045A590 /* pauseEffectRGBStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseEffectRGBStrip.png; sourceTree = "<group>"; };
+		649A66051A06BE080045A590 /* spritesheet_test.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = spritesheet_test.plist; sourceTree = "<group>"; };
+		649A66061A06BE080045A590 /* spritesheet_test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spritesheet_test.png; sourceTree = "<group>"; };
+		649A66071A06BE080045A590 /* testCMF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = testCMF.png; sourceTree = "<group>"; };
 		64AC757C198A92A600709D6E /* LemStart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LemStart.h; sourceTree = "<group>"; };
 		64AC757D198A92A600709D6E /* LemStart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LemStart.m; sourceTree = "<group>"; };
 		64AC7580198E953200709D6E /* pauseEffectShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = pauseEffectShader.fsh; sourceTree = "<group>"; };
-		64AC758A1991376000709D6E /* pauseEffectMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pauseEffectMask.png; path = "../../../APP FILES/Lem/test/pauseEffectMask.png"; sourceTree = "<group>"; };
-		64AC758C199147B500709D6E /* pauseEffectRGBStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pauseEffectRGBStrip.png; path = "../../../APP FILES/Lem/test/pauseEffectRGBStrip.png"; sourceTree = "<group>"; };
 		64B43F661994879D00805AA6 /* flashLightShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = flashLightShader.fsh; sourceTree = "<group>"; };
 		64CE551B198576B60038EA03 /* Menu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Menu.h; sourceTree = "<group>"; };
 		64CE551C198576B60038EA03 /* Menu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Menu.m; sourceTree = "<group>"; };
@@ -316,7 +317,6 @@
 		64CE55231985804B0038EA03 /* LevelEditorBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LevelEditorBG.png; sourceTree = "<group>"; };
 		64D71CE6196F23C1005F1ABB /* JobButtons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JobButtons.h; sourceTree = "<group>"; };
 		64D71CE7196F23C1005F1ABB /* JobButtons.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JobButtons.m; sourceTree = "<group>"; };
-		64E1FE94197ECB2C00C37A4C /* testCMF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = testCMF.png; path = "../../../APP FILES/Lem/test/testCMF.png"; sourceTree = "<group>"; };
 		64E4BCF3196B1DBF001C021F /* Lem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64E4BCF6196B1DBF001C021F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		64E4BCF8196B1DBF001C021F /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -807,11 +807,11 @@
 		64D71CE2196F231D005F1ABB /* test */ = {
 			isa = PBXGroup;
 			children = (
-				64AC758C199147B500709D6E /* pauseEffectRGBStrip.png */,
-				64AC758A1991376000709D6E /* pauseEffectMask.png */,
-				64E1FE94197ECB2C00C37A4C /* testCMF.png */,
-				6458D00719717C3200EA6441 /* spritesheet_test.plist */,
-				6458D00819717C3300EA6441 /* spritesheet_test.png */,
+				649A66031A06BE080045A590 /* pauseEffectMask.png */,
+				649A66041A06BE080045A590 /* pauseEffectRGBStrip.png */,
+				649A66051A06BE080045A590 /* spritesheet_test.plist */,
+				649A66061A06BE080045A590 /* spritesheet_test.png */,
+				649A66071A06BE080045A590 /* testCMF.png */,
 			);
 			name = test;
 			sourceTree = "<group>";
@@ -1720,6 +1720,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				64B43F671994879D00805AA6 /* flashLightShader.fsh in Resources */,
+				649A660A1A06BE080045A590 /* spritesheet_test.plist in Resources */,
 				6411B7E81999C2CE00B87293 /* digMaskBlue.png in Resources */,
 				6411B7EE1999C2CE00B87293 /* digMaskRed.png in Resources */,
 				64E4BD15196B1DC0001C021F /* Default@2x.png in Resources */,
@@ -1733,8 +1734,6 @@
 				64E4BD1C196B1DC0001C021F /* Icon.png in Resources */,
 				6411B7F5199B90F800B87293 /* digMaskCircle.png in Resources */,
 				6411B7E91999C2CE00B87293 /* digMaskBlueBig.png in Resources */,
-				64AC758D199147B500709D6E /* pauseEffectRGBStrip.png in Resources */,
-				6458D00919717C3300EA6441 /* spritesheet_test.plist in Resources */,
 				6411B7EA1999C2CE00B87293 /* digMaskBlueSmall.png in Resources */,
 				6411B7E61999C2CE00B87293 /* digMask.png in Resources */,
 				649A65FF1A06BB250045A590 /* Level2.tmx in Resources */,
@@ -1744,21 +1743,22 @@
 				64AC7581198E953200709D6E /* pauseEffectShader.fsh in Resources */,
 				6411B7F01999C2CE00B87293 /* digMaskRedSmall.png in Resources */,
 				64E4BF9B196B2000001C021F /* dpad.png in Resources */,
-				64E1FE95197ECB2C00C37A4C /* testCMF.png in Resources */,
+				649A66081A06BE080045A590 /* pauseEffectMask.png in Resources */,
 				649A66001A06BB250045A590 /* TestLevel.tmx in Resources */,
 				64E4BD2C196B1DC0001C021F /* Icon-Small-50.png in Resources */,
 				64E4BF9A196B2000001C021F /* bButton.png in Resources */,
 				649A65FE1A06BB250045A590 /* Level1.tmx in Resources */,
-				64AC758B1991376000709D6E /* pauseEffectMask.png in Resources */,
 				6411B7F11999C2CE00B87293 /* digMaskSmall.png in Resources */,
+				649A660B1A06BE080045A590 /* spritesheet_test.png in Resources */,
 				64E4BF44196B1DC4001C021F /* LICENSE_Chipmunk.txt in Resources */,
 				64E4BD20196B1DC0001C021F /* Icon-72.png in Resources */,
 				6411B7E71999C2CE00B87293 /* digMaskBig.png in Resources */,
 				64E4BED6196B1DC3001C021F /* LICENSE_CCBReader.txt in Resources */,
 				6411B7EF1999C2CE00B87293 /* digMaskRedBig.png in Resources */,
+				649A66091A06BE080045A590 /* pauseEffectRGBStrip.png in Resources */,
 				64CE55251985804B0038EA03 /* LevelEditorBG.png in Resources */,
-				6458D00A19717C3300EA6441 /* spritesheet_test.png in Resources */,
 				64E4BE4A196B1DC2001C021F /* LICENSE_cocos2d.txt in Resources */,
+				649A660C1A06BE080045A590 /* testCMF.png in Resources */,
 				6411B7EB1999C2CE00B87293 /* digMaskGreen.png in Resources */,
 				64E4BD17196B1DC0001C021F /* Default-568h@2x.png in Resources */,
 				64E4BD37196B1DC0001C021F /* iTunesArtwork in Resources */,
