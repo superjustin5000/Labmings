@@ -31,13 +31,19 @@
 		6458D0211975E42E00EA6441 /* LevelStats.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D0201975E42E00EA6441 /* LevelStats.m */; };
 		6458D0231975E6B700EA6441 /* Level2.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 6458D0221975E6B700EA6441 /* Level2.tmx */; };
 		6458D0261975F6CD00EA6441 /* TestLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D0251975F6CD00EA6441 /* TestLevel.m */; };
+		649A65E41A06B78A0045A590 /* GameSave.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65E11A06B78A0045A590 /* GameSave.m */; };
+		649A65E51A06B78A0045A590 /* GameSaveKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65E31A06B78A0045A590 /* GameSaveKey.m */; };
+		649A65ED1A06B7A70045A590 /* JHud.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65E81A06B7A70045A590 /* JHud.m */; };
+		649A65EE1A06B7A70045A590 /* JHudNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65EA1A06B7A70045A590 /* JHudNode.m */; };
+		649A65EF1A06B7A70045A590 /* JPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65EC1A06B7A70045A590 /* JPad.m */; };
+		649A65F81A06B7C10045A590 /* GameState.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65F11A06B7C10045A590 /* GameState.m */; };
+		649A65F91A06B7C10045A590 /* JLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65F41A06B7C10045A590 /* JLevel.m */; };
+		649A65FA1A06B7C10045A590 /* JSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65F61A06B7C10045A590 /* JSprite.m */; };
 		64AC757E198A92A600709D6E /* LemStart.m in Sources */ = {isa = PBXBuildFile; fileRef = 64AC757D198A92A600709D6E /* LemStart.m */; };
 		64AC7581198E953200709D6E /* pauseEffectShader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 64AC7580198E953200709D6E /* pauseEffectShader.fsh */; };
 		64AC758B1991376000709D6E /* pauseEffectMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758A1991376000709D6E /* pauseEffectMask.png */; };
 		64AC758D199147B500709D6E /* pauseEffectRGBStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758C199147B500709D6E /* pauseEffectRGBStrip.png */; };
 		64AC758F1991D14300709D6E /* LevelEditor.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758E1991D14300709D6E /* LevelEditor.tmx */; };
-		64B43F6419942AFF00805AA6 /* GameSave.m in Sources */ = {isa = PBXBuildFile; fileRef = 64B43F6119942AFF00805AA6 /* GameSave.m */; };
-		64B43F6519942AFF00805AA6 /* GameSaveKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 64B43F6319942AFF00805AA6 /* GameSaveKey.m */; };
 		64B43F671994879D00805AA6 /* flashLightShader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 64B43F661994879D00805AA6 /* flashLightShader.fsh */; };
 		64CE551D198576B60038EA03 /* Menu.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551C198576B60038EA03 /* Menu.m */; };
 		64CE552019857A590038EA03 /* LevelEditor.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551F19857A590038EA03 /* LevelEditor.m */; };
@@ -227,13 +233,7 @@
 		64E4BF44196B1DC4001C021F /* LICENSE_Chipmunk.txt in Resources */ = {isa = PBXBuildFile; fileRef = 64E4BF43196B1DC4001C021F /* LICENSE_Chipmunk.txt */; };
 		64E4BF48196B1DC4001C021F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF47196B1DC4001C021F /* main.m */; };
 		64E4BF4C196B1DC4001C021F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF4B196B1DC4001C021F /* AppDelegate.m */; };
-		64E4BF72196B1E5E001C021F /* GameState.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF63196B1E5D001C021F /* GameState.m */; };
-		64E4BF74196B1E5E001C021F /* JLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF67196B1E5D001C021F /* JLevel.m */; };
-		64E4BF75196B1E5E001C021F /* JSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF69196B1E5D001C021F /* JSprite.m */; };
 		64E4BF7B196B1EC6001C021F /* Level.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF7A196B1EC6001C021F /* Level.m */; };
-		64E4BF89196B1FCF001C021F /* JHud.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF84196B1FCF001C021F /* JHud.m */; };
-		64E4BF8A196B1FCF001C021F /* JHudNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF86196B1FCF001C021F /* JHudNode.m */; };
-		64E4BF8B196B1FCF001C021F /* JPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 64E4BF88196B1FCF001C021F /* JPad.m */; };
 		64E4BF99196B2000001C021F /* aButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 64E4BF96196B2000001C021F /* aButton.png */; };
 		64E4BF9A196B2000001C021F /* bButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 64E4BF97196B2000001C021F /* bButton.png */; };
 		64E4BF9B196B2000001C021F /* dpad.png in Resources */ = {isa = PBXBuildFile; fileRef = 64E4BF98196B2000001C021F /* dpad.png */; };
@@ -283,16 +283,30 @@
 		6458D0221975E6B700EA6441 /* Level2.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = Level2.tmx; path = "../../../APP FILES/Lem/level maps/Level2.tmx"; sourceTree = "<group>"; };
 		6458D0241975F6CD00EA6441 /* TestLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestLevel.h; sourceTree = "<group>"; };
 		6458D0251975F6CD00EA6441 /* TestLevel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestLevel.m; sourceTree = "<group>"; };
+		649A65E01A06B78A0045A590 /* GameSave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameSave.h; sourceTree = "<group>"; };
+		649A65E11A06B78A0045A590 /* GameSave.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameSave.m; sourceTree = "<group>"; };
+		649A65E21A06B78A0045A590 /* GameSaveKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameSaveKey.h; sourceTree = "<group>"; };
+		649A65E31A06B78A0045A590 /* GameSaveKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameSaveKey.m; sourceTree = "<group>"; };
+		649A65E71A06B7A70045A590 /* JHud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHud.h; sourceTree = "<group>"; };
+		649A65E81A06B7A70045A590 /* JHud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHud.m; sourceTree = "<group>"; };
+		649A65E91A06B7A70045A590 /* JHudNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHudNode.h; sourceTree = "<group>"; };
+		649A65EA1A06B7A70045A590 /* JHudNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHudNode.m; sourceTree = "<group>"; };
+		649A65EB1A06B7A70045A590 /* JPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPad.h; sourceTree = "<group>"; };
+		649A65EC1A06B7A70045A590 /* JPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JPad.m; sourceTree = "<group>"; };
+		649A65F01A06B7C10045A590 /* GameState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameState.h; sourceTree = "<group>"; };
+		649A65F11A06B7C10045A590 /* GameState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameState.m; sourceTree = "<group>"; };
+		649A65F21A06B7C10045A590 /* JEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JEngine.h; sourceTree = "<group>"; };
+		649A65F31A06B7C10045A590 /* JLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JLevel.h; sourceTree = "<group>"; };
+		649A65F41A06B7C10045A590 /* JLevel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JLevel.m; sourceTree = "<group>"; };
+		649A65F51A06B7C10045A590 /* JSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSprite.h; sourceTree = "<group>"; };
+		649A65F61A06B7C10045A590 /* JSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSprite.m; sourceTree = "<group>"; };
+		649A65F71A06B7C10045A590 /* macros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = macros.h; sourceTree = "<group>"; };
 		64AC757C198A92A600709D6E /* LemStart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LemStart.h; sourceTree = "<group>"; };
 		64AC757D198A92A600709D6E /* LemStart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LemStart.m; sourceTree = "<group>"; };
 		64AC7580198E953200709D6E /* pauseEffectShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = pauseEffectShader.fsh; sourceTree = "<group>"; };
 		64AC758A1991376000709D6E /* pauseEffectMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pauseEffectMask.png; path = "../../../APP FILES/Lem/test/pauseEffectMask.png"; sourceTree = "<group>"; };
 		64AC758C199147B500709D6E /* pauseEffectRGBStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pauseEffectRGBStrip.png; path = "../../../APP FILES/Lem/test/pauseEffectRGBStrip.png"; sourceTree = "<group>"; };
 		64AC758E1991D14300709D6E /* LevelEditor.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = LevelEditor.tmx; path = "../../../APP FILES/Lem/test/LevelEditor/LevelEditor.tmx"; sourceTree = "<group>"; };
-		64B43F6019942AFF00805AA6 /* GameSave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameSave.h; path = ../../../JEngine/GameSave/GameSave.h; sourceTree = "<group>"; };
-		64B43F6119942AFF00805AA6 /* GameSave.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameSave.m; path = ../../../JEngine/GameSave/GameSave.m; sourceTree = "<group>"; };
-		64B43F6219942AFF00805AA6 /* GameSaveKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameSaveKey.h; path = ../../../JEngine/GameSave/GameSaveKey.h; sourceTree = "<group>"; };
-		64B43F6319942AFF00805AA6 /* GameSaveKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameSaveKey.m; path = ../../../JEngine/GameSave/GameSaveKey.m; sourceTree = "<group>"; };
 		64B43F661994879D00805AA6 /* flashLightShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = flashLightShader.fsh; sourceTree = "<group>"; };
 		64CE551B198576B60038EA03 /* Menu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Menu.h; sourceTree = "<group>"; };
 		64CE551C198576B60038EA03 /* Menu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Menu.m; sourceTree = "<group>"; };
@@ -671,22 +685,8 @@
 		64E4BF47196B1DC4001C021F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "Supporting Files/main.m"; sourceTree = "<group>"; };
 		64E4BF4A196B1DC4001C021F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Classes/AppDelegate.h; sourceTree = "<group>"; };
 		64E4BF4B196B1DC4001C021F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Classes/AppDelegate.m; sourceTree = "<group>"; };
-		64E4BF62196B1E5D001C021F /* GameState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameState.h; path = ../../../JEngine/GameState.h; sourceTree = "<group>"; };
-		64E4BF63196B1E5D001C021F /* GameState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameState.m; path = ../../../JEngine/GameState.m; sourceTree = "<group>"; };
-		64E4BF65196B1E5D001C021F /* JEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JEngine.h; path = ../../../JEngine/JEngine.h; sourceTree = "<group>"; };
-		64E4BF66196B1E5D001C021F /* JLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JLevel.h; path = ../../../JEngine/JLevel.h; sourceTree = "<group>"; };
-		64E4BF67196B1E5D001C021F /* JLevel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JLevel.m; path = ../../../JEngine/JLevel.m; sourceTree = "<group>"; };
-		64E4BF68196B1E5D001C021F /* JSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JSprite.h; path = ../../../JEngine/JSprite.h; sourceTree = "<group>"; };
-		64E4BF69196B1E5D001C021F /* JSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JSprite.m; path = ../../../JEngine/JSprite.m; sourceTree = "<group>"; };
-		64E4BF6B196B1E5D001C021F /* macros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = macros.h; path = ../../../JEngine/macros.h; sourceTree = "<group>"; };
 		64E4BF79196B1EC6001C021F /* Level.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Level.h; sourceTree = "<group>"; };
 		64E4BF7A196B1EC6001C021F /* Level.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Level.m; sourceTree = "<group>"; };
-		64E4BF83196B1FCF001C021F /* JHud.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JHud.h; path = ../../../JEngine/Hud/JHud.h; sourceTree = "<group>"; };
-		64E4BF84196B1FCF001C021F /* JHud.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JHud.m; path = ../../../JEngine/Hud/JHud.m; sourceTree = "<group>"; };
-		64E4BF85196B1FCF001C021F /* JHudNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JHudNode.h; path = ../../../JEngine/Hud/JHudNode.h; sourceTree = "<group>"; };
-		64E4BF86196B1FCF001C021F /* JHudNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JHudNode.m; path = ../../../JEngine/Hud/JHudNode.m; sourceTree = "<group>"; };
-		64E4BF87196B1FCF001C021F /* JPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JPad.h; path = ../../../JEngine/Hud/JPad.h; sourceTree = "<group>"; };
-		64E4BF88196B1FCF001C021F /* JPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JPad.m; path = ../../../JEngine/Hud/JPad.m; sourceTree = "<group>"; };
 		64E4BF96196B2000001C021F /* aButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aButton.png; sourceTree = "<group>"; };
 		64E4BF97196B2000001C021F /* bButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bButton.png; sourceTree = "<group>"; };
 		64E4BF98196B2000001C021F /* dpad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dpad.png; sourceTree = "<group>"; };
@@ -731,6 +731,47 @@
 			name = maps;
 			sourceTree = "<group>";
 		};
+		649A65DE1A06B7600045A590 /* JEngine */ = {
+			isa = PBXGroup;
+			children = (
+				649A65F01A06B7C10045A590 /* GameState.h */,
+				649A65F11A06B7C10045A590 /* GameState.m */,
+				649A65F21A06B7C10045A590 /* JEngine.h */,
+				649A65F31A06B7C10045A590 /* JLevel.h */,
+				649A65F41A06B7C10045A590 /* JLevel.m */,
+				649A65F51A06B7C10045A590 /* JSprite.h */,
+				649A65F61A06B7C10045A590 /* JSprite.m */,
+				649A65F71A06B7C10045A590 /* macros.h */,
+				649A65E61A06B7940045A590 /* Hud */,
+				649A65DF1A06B77D0045A590 /* GameSave */,
+			);
+			name = JEngine;
+			sourceTree = "<group>";
+		};
+		649A65DF1A06B77D0045A590 /* GameSave */ = {
+			isa = PBXGroup;
+			children = (
+				649A65E01A06B78A0045A590 /* GameSave.h */,
+				649A65E11A06B78A0045A590 /* GameSave.m */,
+				649A65E21A06B78A0045A590 /* GameSaveKey.h */,
+				649A65E31A06B78A0045A590 /* GameSaveKey.m */,
+			);
+			name = GameSave;
+			sourceTree = "<group>";
+		};
+		649A65E61A06B7940045A590 /* Hud */ = {
+			isa = PBXGroup;
+			children = (
+				649A65E71A06B7A70045A590 /* JHud.h */,
+				649A65E81A06B7A70045A590 /* JHud.m */,
+				649A65E91A06B7A70045A590 /* JHudNode.h */,
+				649A65EA1A06B7A70045A590 /* JHudNode.m */,
+				649A65EB1A06B7A70045A590 /* JPad.h */,
+				649A65EC1A06B7A70045A590 /* JPad.m */,
+			);
+			name = Hud;
+			sourceTree = "<group>";
+		};
 		64AC757F198E94DA00709D6E /* shaders */ = {
 			isa = PBXGroup;
 			children = (
@@ -739,17 +780,6 @@
 				64051EE21995C149005B8378 /* flashLightShader.vsh */,
 			);
 			name = shaders;
-			sourceTree = "<group>";
-		};
-		64B43F5F19942AEB00805AA6 /* Game Save */ = {
-			isa = PBXGroup;
-			children = (
-				64B43F6019942AFF00805AA6 /* GameSave.h */,
-				64B43F6119942AFF00805AA6 /* GameSave.m */,
-				64B43F6219942AFF00805AA6 /* GameSaveKey.h */,
-				64B43F6319942AFF00805AA6 /* GameSaveKey.m */,
-			);
-			name = "Game Save";
 			sourceTree = "<group>";
 		};
 		64CE5521198580390038EA03 /* level editor */ = {
@@ -837,7 +867,7 @@
 		64E4BD10196B1DC0001C021F /* Lem */ = {
 			isa = PBXGroup;
 			children = (
-				64E4BF5C196B1E07001C021F /* JEngine */,
+				649A65DE1A06B7600045A590 /* JEngine */,
 				64E4BF49196B1DC4001C021F /* Classes */,
 				64E4BD11196B1DC0001C021F /* Resources */,
 				64E4BD3A196B1DC0001C021F /* Libraries */,
@@ -1568,36 +1598,6 @@
 			name = Classes;
 			sourceTree = "<group>";
 		};
-		64E4BF5C196B1E07001C021F /* JEngine */ = {
-			isa = PBXGroup;
-			children = (
-				64B43F5F19942AEB00805AA6 /* Game Save */,
-				64E4BF7D196B1FAB001C021F /* Hud */,
-				64E4BF62196B1E5D001C021F /* GameState.h */,
-				64E4BF63196B1E5D001C021F /* GameState.m */,
-				64E4BF65196B1E5D001C021F /* JEngine.h */,
-				64E4BF66196B1E5D001C021F /* JLevel.h */,
-				64E4BF67196B1E5D001C021F /* JLevel.m */,
-				64E4BF68196B1E5D001C021F /* JSprite.h */,
-				64E4BF69196B1E5D001C021F /* JSprite.m */,
-				64E4BF6B196B1E5D001C021F /* macros.h */,
-			);
-			name = JEngine;
-			sourceTree = "<group>";
-		};
-		64E4BF7D196B1FAB001C021F /* Hud */ = {
-			isa = PBXGroup;
-			children = (
-				64E4BF83196B1FCF001C021F /* JHud.h */,
-				64E4BF84196B1FCF001C021F /* JHud.m */,
-				64E4BF85196B1FCF001C021F /* JHudNode.h */,
-				64E4BF86196B1FCF001C021F /* JHudNode.m */,
-				64E4BF87196B1FCF001C021F /* JPad.h */,
-				64E4BF88196B1FCF001C021F /* JPad.m */,
-			);
-			name = Hud;
-			sourceTree = "<group>";
-		};
 		64E4BF95196B1FF5001C021F /* hud */ = {
 			isa = PBXGroup;
 			children = (
@@ -1784,25 +1784,20 @@
 				64E4BDCE196B1DC1001C021F /* CCScene.m in Sources */,
 				64E4BDEF196B1DC1001C021F /* CCTiledMap.m in Sources */,
 				64E4BEAE196B1DC3001C021F /* CCControl.m in Sources */,
-				64E4BF8A196B1FCF001C021F /* JHudNode.m in Sources */,
 				64E4BFA3196B239D001C021F /* Lem.m in Sources */,
 				64E4BD9E196B1DC1001C021F /* CCParallaxNode.m in Sources */,
 				64E4BDF3196B1DC1001C021F /* CCTiledMapLayer.m in Sources */,
 				64E4BDB2196B1DC1001C021F /* CCPhysicsBody.m in Sources */,
 				64E4BD87196B1DC1001C021F /* CCNodeColor.m in Sources */,
 				64E4BEC6196B1DC3001C021F /* CCBKeyframe.m in Sources */,
-				64E4BF74196B1E5E001C021F /* JLevel.m in Sources */,
 				64E4BE7F196B1DC2001C021F /* ALSoundSourcePool.m in Sources */,
 				6458D01E1975DEE300EA6441 /* Level2.m in Sources */,
 				64E4BF48196B1DC4001C021F /* main.m in Sources */,
 				64E4BD5C196B1DC0001C021F /* CCActionManager.m in Sources */,
-				64B43F6419942AFF00805AA6 /* GameSave.m in Sources */,
 				64E4BE66196B1DC2001C021F /* OALSimpleAudio.m in Sources */,
 				64E4BE89196B1DC3001C021F /* OpenALManager.m in Sources */,
 				64E4BD6D196B1DC0001C021F /* CCClippingNode.m in Sources */,
-				64B43F6519942AFF00805AA6 /* GameSaveKey.m in Sources */,
 				64E4BDDE196B1DC1001C021F /* CCSpriteFrame.m in Sources */,
-				64E4BF75196B1E5E001C021F /* JSprite.m in Sources */,
 				64E4BE9E196B1DC3001C021F /* NSMutableDictionary+WeakReferences.m in Sources */,
 				64E4BD48196B1DC0001C021F /* CCCache.m in Sources */,
 				64E4BE23196B1DC2001C021F /* base64.c in Sources */,
@@ -1834,9 +1829,8 @@
 				64E4BD9A196B1DC1001C021F /* CCNode+Debug.m in Sources */,
 				64E4BEB2196B1DC3001C021F /* CCControlTextureFactory.m in Sources */,
 				64E4BD84196B1DC1001C021F /* CCLabelTTF.m in Sources */,
-				64E4BF8B196B1FCF001C021F /* JPad.m in Sources */,
 				64E4BE1B196B1DC2001C021F /* CCGLView.m in Sources */,
-				64E4BF89196B1FCF001C021F /* JHud.m in Sources */,
+				649A65E51A06B78A0045A590 /* GameSaveKey.m in Sources */,
 				64E4BDBB196B1DC1001C021F /* CCPhysicsShape.m in Sources */,
 				64E4BE2E196B1DC2001C021F /* CCProfiling.m in Sources */,
 				64E4BDA5196B1DC1001C021F /* CCParticleExamples.m in Sources */,
@@ -1871,26 +1865,30 @@
 				64E4BD62196B1DC0001C021F /* CCActionTween.m in Sources */,
 				64E4BD71196B1DC0001C021F /* CCConfiguration.m in Sources */,
 				64E4BD44196B1DC0001C021F /* CCShader.m in Sources */,
+				649A65F91A06B7C10045A590 /* JLevel.m in Sources */,
 				64E4BD8E196B1DC1001C021F /* CCLayoutBox.m in Sources */,
 				64E4BEB5196B1DC3001C021F /* CCScrollView.m in Sources */,
 				64E4BE38196B1DC2001C021F /* CGPointExtension.m in Sources */,
+				649A65FA1A06B7C10045A590 /* JSprite.m in Sources */,
+				649A65ED1A06B7A70045A590 /* JHud.m in Sources */,
 				64E4BDA2196B1DC1001C021F /* CCParticleBatchNode.m in Sources */,
 				64E4BDD1196B1DC1001C021F /* CCScheduler.m in Sources */,
 				6458D0261975F6CD00EA6441 /* TestLevel.m in Sources */,
 				64E4BDFC196B1DC2001C021F /* CCTransition.m in Sources */,
 				64E4BEBB196B1DC3001C021F /* CCTableView.m in Sources */,
+				649A65E41A06B78A0045A590 /* GameSave.m in Sources */,
 				64E4BDC3196B1DC1001C021F /* CCRenderTexture.m in Sources */,
 				64E4BE0E196B1DC2001C021F /* CCGLView.m in Sources */,
 				64E4BE9B196B1DC3001C021F /* NSMutableArray+WeakReferences.m in Sources */,
 				64E4BE82196B1DC2001C021F /* ALSource.m in Sources */,
 				64E4BE86196B1DC3001C021F /* ALWrapper.m in Sources */,
+				649A65EE1A06B7A70045A590 /* JHudNode.m in Sources */,
 				64E4BDF9196B1DC2001C021F /* CCTMXXMLParser.m in Sources */,
 				64E4BE42196B1DC2001C021F /* TGAlib.m in Sources */,
 				64E4BE11196B1DC2001C021F /* UITouch+CC.m in Sources */,
 				64E4BDDB196B1DC1001C021F /* CCSpriteBatchNode.m in Sources */,
 				64E4BE1E196B1DC2001C021F /* CCWindow.m in Sources */,
 				64E4BE7B196B1DC2001C021F /* ALListener.m in Sources */,
-				64E4BF72196B1E5E001C021F /* GameState.m in Sources */,
 				64E4BE3B196B1DC2001C021F /* NSAttributedString+CCAdditions.m in Sources */,
 				64E4BD75196B1DC0001C021F /* CCDirector.m in Sources */,
 				64E4BEC9196B1DC3001C021F /* CCBReader.m in Sources */,
@@ -1904,6 +1902,7 @@
 				64E4BE2A196B1DC2001C021F /* CCColor.m in Sources */,
 				64E4BDE9196B1DC1001C021F /* CCTextureCache.m in Sources */,
 				64E4BDBF196B1DC1001C021F /* CCProgressNode.m in Sources */,
+				649A65EF1A06B7A70045A590 /* JPad.m in Sources */,
 				64E4BDE6196B1DC1001C021F /* CCTexture.m in Sources */,
 				64E4BF4C196B1DC4001C021F /* AppDelegate.m in Sources */,
 				64E4BDB8196B1DC1001C021F /* CCPhysicsNode.m in Sources */,
@@ -1912,6 +1911,7 @@
 				64E4BE60196B1DC2001C021F /* OALAudioTrackNotifications.m in Sources */,
 				64E4BD40196B1DC0001C021F /* CCRenderer.m in Sources */,
 				64E4BE97196B1DC3001C021F /* mach_timing.c in Sources */,
+				649A65F81A06B7C10045A590 /* GameState.m in Sources */,
 				64E4BE21196B1DC2001C021F /* NSEvent+CC.m in Sources */,
 				64E4BD55196B1DC0001C021F /* CCActionInstant.m in Sources */,
 				64E4BD58196B1DC0001C021F /* CCActionInterval.m in Sources */,
