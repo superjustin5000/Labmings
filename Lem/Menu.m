@@ -22,10 +22,7 @@
     CCScene *scene = [CCScene node];
     Menu *m = [Menu node];
     
-    //test
     
-    
-    //yata!
     
     [scene addChild:m];
     
