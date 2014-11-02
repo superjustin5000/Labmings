@@ -40,11 +40,11 @@
 		649A65FE1A06BB250045A590 /* Level1.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FB1A06BB250045A590 /* Level1.tmx */; };
 		649A65FF1A06BB250045A590 /* Level2.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FC1A06BB250045A590 /* Level2.tmx */; };
 		649A66001A06BB250045A590 /* TestLevel.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FD1A06BB250045A590 /* TestLevel.tmx */; };
+		649A66021A06BC570045A590 /* LevelEditor.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A66011A06BC570045A590 /* LevelEditor.tmx */; };
 		64AC757E198A92A600709D6E /* LemStart.m in Sources */ = {isa = PBXBuildFile; fileRef = 64AC757D198A92A600709D6E /* LemStart.m */; };
 		64AC7581198E953200709D6E /* pauseEffectShader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 64AC7580198E953200709D6E /* pauseEffectShader.fsh */; };
 		64AC758B1991376000709D6E /* pauseEffectMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758A1991376000709D6E /* pauseEffectMask.png */; };
 		64AC758D199147B500709D6E /* pauseEffectRGBStrip.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758C199147B500709D6E /* pauseEffectRGBStrip.png */; };
-		64AC758F1991D14300709D6E /* LevelEditor.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758E1991D14300709D6E /* LevelEditor.tmx */; };
 		64B43F671994879D00805AA6 /* flashLightShader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 64B43F661994879D00805AA6 /* flashLightShader.fsh */; };
 		64CE551D198576B60038EA03 /* Menu.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551C198576B60038EA03 /* Menu.m */; };
 		64CE552019857A590038EA03 /* LevelEditor.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551F19857A590038EA03 /* LevelEditor.m */; };
@@ -302,12 +302,12 @@
 		649A65FB1A06BB250045A590 /* Level1.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Level1.tmx; sourceTree = "<group>"; };
 		649A65FC1A06BB250045A590 /* Level2.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Level2.tmx; sourceTree = "<group>"; };
 		649A65FD1A06BB250045A590 /* TestLevel.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = TestLevel.tmx; sourceTree = "<group>"; };
+		649A66011A06BC570045A590 /* LevelEditor.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = LevelEditor.tmx; sourceTree = "<group>"; };
 		64AC757C198A92A600709D6E /* LemStart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LemStart.h; sourceTree = "<group>"; };
 		64AC757D198A92A600709D6E /* LemStart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LemStart.m; sourceTree = "<group>"; };
 		64AC7580198E953200709D6E /* pauseEffectShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = pauseEffectShader.fsh; sourceTree = "<group>"; };
 		64AC758A1991376000709D6E /* pauseEffectMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pauseEffectMask.png; path = "../../../APP FILES/Lem/test/pauseEffectMask.png"; sourceTree = "<group>"; };
 		64AC758C199147B500709D6E /* pauseEffectRGBStrip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pauseEffectRGBStrip.png; path = "../../../APP FILES/Lem/test/pauseEffectRGBStrip.png"; sourceTree = "<group>"; };
-		64AC758E1991D14300709D6E /* LevelEditor.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = LevelEditor.tmx; path = "../../../APP FILES/Lem/test/LevelEditor/LevelEditor.tmx"; sourceTree = "<group>"; };
 		64B43F661994879D00805AA6 /* flashLightShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = flashLightShader.fsh; sourceTree = "<group>"; };
 		64CE551B198576B60038EA03 /* Menu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Menu.h; sourceTree = "<group>"; };
 		64CE551C198576B60038EA03 /* Menu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Menu.m; sourceTree = "<group>"; };
@@ -724,6 +724,7 @@
 		6498BB0C196C3D9B0031C109 /* maps */ = {
 			isa = PBXGroup;
 			children = (
+				649A66011A06BC570045A590 /* LevelEditor.tmx */,
 				649A65FB1A06BB250045A590 /* Level1.tmx */,
 				649A65FC1A06BB250045A590 /* Level2.tmx */,
 				649A65FD1A06BB250045A590 /* TestLevel.tmx */,
@@ -785,7 +786,6 @@
 		64CE5521198580390038EA03 /* level editor */ = {
 			isa = PBXGroup;
 			children = (
-				64AC758E1991D14300709D6E /* LevelEditor.tmx */,
 				64CE55231985804B0038EA03 /* LevelEditorBG.png */,
 				6411B7DA1999C2CE00B87293 /* digMask.png */,
 				6411B7DB1999C2CE00B87293 /* digMaskBig.png */,
@@ -1721,7 +1721,6 @@
 			files = (
 				64B43F671994879D00805AA6 /* flashLightShader.fsh in Resources */,
 				6411B7E81999C2CE00B87293 /* digMaskBlue.png in Resources */,
-				64AC758F1991D14300709D6E /* LevelEditor.tmx in Resources */,
 				6411B7EE1999C2CE00B87293 /* digMaskRed.png in Resources */,
 				64E4BD15196B1DC0001C021F /* Default@2x.png in Resources */,
 				64E4BD28196B1DC0001C021F /* Icon-120.png in Resources */,
@@ -1768,6 +1767,7 @@
 				64E4BD26196B1DC0001C021F /* Icon-76@2x.png in Resources */,
 				64E4BD34196B1DC0001C021F /* Icon-Spotlight-iOS7@2x.png in Resources */,
 				64E4BD24196B1DC0001C021F /* Icon-76.png in Resources */,
+				649A66021A06BC570045A590 /* LevelEditor.tmx in Resources */,
 				6411B7ED1999C2CE00B87293 /* digMaskGreenSmall.png in Resources */,
 				64E4BD39196B1DC0001C021F /* iTunesArtwork@2x in Resources */,
 			);
