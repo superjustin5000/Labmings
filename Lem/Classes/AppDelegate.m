@@ -11,6 +11,7 @@
 
 
 #import "Loader.h"
+#import <FacebookSDK/FacebookSDK.h>
 
 
 @implementation AppDelegate
@@ -44,7 +45,9 @@
 		// Make iPad's act like they run at a 2x content scale. (iPad retina 4x)
 //		CCSetupTabletScale2X: @(YES),
 	}];
-	
+    
+
+    
 	return YES;
 }
 
@@ -54,6 +57,20 @@
 	Loader *l = [Loader node]; ///// this line calls the init method of the loader class, which loads all the game's assets.
     
 	return [l startLevel];
+}
+
+- (void)applicationDidBecomeActive:(UIApplication *)application {
+    
+    // Logs 'install' and 'app activate' App Events.
+    [FBAppEvents activateApp];
+}
+
+- (BOOL)application:(UIApplication *)application
+            openURL:(NSURL *)url
+  sourceApplication:(NSString *)sourceApplication
+         annotation:(id)annotation {
+    // attempt to extract a token from the url
+    return [FBAppCall handleOpenURL:url sourceApplication:sourceApplication];
 }
 
 

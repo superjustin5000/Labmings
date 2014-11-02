@@ -14,6 +14,8 @@
 #import "Level1.h"
 
 #import "CCButton.h"
+#import <FacebookSDK/FacebookSDK.h>
+
 
 
 @implementation Menu
@@ -60,7 +62,21 @@
     [self addChild:(social)];
     
     
+    
+    
     return self;
+    
+}
+
+-(void)update:(CCTime)delta{
+    
+    BOOL checkIfLogged = FBSession.activeSession.isOpen;
+    
+    if(checkIfLogged){
+        NSLog(@"LOGGED IN FFUCKEERRR");
+    }
+    
+    
     
 }
 
@@ -74,6 +90,27 @@
     [[CCDirector sharedDirector] replaceScene:[LevelEditor sceneWithHudNoPad]];
 }
 
+-(void) onEnter
+{
+    [super onEnter];
+    UIView *view = [[CCDirector sharedDirector] view];
+    
+    FBLoginView *loginView = [[FBLoginView alloc] init];
+    loginView.center = CGPointMake(view.frame.size.width  - (loginView.frame.size.width/2), view.frame.size.height- (loginView.frame.size.height/2));
+   
+    [view addSubview:loginView];
+}
+
+-(void) onEnterTransitionDidFinish
+{
+    [super onEnterTransitionDidFinish];
+    UIView *view = [[CCDirector sharedDirector] view];
+    
+    FBLoginView *loginView = [[FBLoginView alloc] init];
+    loginView.center = CGPointMake(view.frame.size.width  - (loginView.frame.size.width/2), view.frame.size.height- (loginView.frame.size.height/2));
+    
+    [view addSubview:loginView];
+}
 
 
 @end
