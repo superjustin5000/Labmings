@@ -22,6 +22,8 @@
     CCScene *scene = [CCScene node];
     Menu *m = [Menu node];
     
+    //test
+    
     [scene addChild:m];
     
     return scene;
