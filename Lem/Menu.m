@@ -24,6 +24,8 @@
     
     
     
+    //yata!!
+    
     [scene addChild:m];
     
     return scene;
