@@ -1,0 +1,1574 @@
+TLem
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app/Info.plist /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Resources/Info.plist
+cProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000537048D200000000000003B4
+t1399867602
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000537048F1000000000000019E
+t1399867633
+s414
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m
+c0000000053BAE64200000000000012CE
+t1404757570
+s4814
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m
+c0000000053BAE6430000000000002164
+t1404757571
+s8548
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m
+c0000000053BAE64100000000000010A2
+t1404757569
+s4258
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsBody.m
+c0000000053BAE641000000000000489B
+t1404757569
+s18587
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScene.m
+c0000000053BAE6410000000000000A31
+t1404757569
+s2609
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m
+c0000000053BAE6410000000000001811
+t1404757569
+s6161
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m
+c0000000053BAE6410000000000003DE9
+t1404757569
+s15849
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Resources/Info.plist
+c0000000053BAE64000000000000007CC
+t1404757568
+s1996
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Supporting Files/Prefix.pch
+c0000000053BAE6440000000000000132
+t1404757572
+s306
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Debug-iphonesimulator/Lem.app/Info.plist
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Debug-iphonesimulator/Lem.app/PkgInfo
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.o
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.o
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.o
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCPhysicsBody.o
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.o
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.o
+t2
+s0
+
+N/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.o
+t2
+s0
+
+N/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.pch
+t2
+s0
+
+N/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.pch
+t1404757997
+s5375964
+
+N/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.pch
+t2
+s0
+
+N/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.pch
+t2
+s0
+
+CBuild AST from /Users/jfletch1787/Desktop/JEngine/GameState.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/JEngine/JLevel.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/JEngine/JSprite.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/HelloWorldScene.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/IntroScene.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Level.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBAnimationManager.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBKeyframe.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBLocalizationManager.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBReader.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBSequenceProperty.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBsequence.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALAction.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALActionManager.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALAudioActions.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALUtilityActions.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTrack.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTrackNotifications.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTracks.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OALSimpleAudio.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALCaptureDevice.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALChannelSource.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALContext.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALDevice.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALListener.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSoundSourcePool.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSource.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALWrapper.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/OpenALManager.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Session/OALAudioSession.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Session/OALSuspendHandler.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/IOSVersion.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/NSMutableArray+WeakReferences.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/NSMutableDictionary+WeakReferences.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/OALAudioFile.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/OALTools.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/mach_timing.c
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCButton.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControlTextureFactory.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCScrollView.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCSlider.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCTableView.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCTextField.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAction.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionCatmullRom.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionEase.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionInstant.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionInterval.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionManager.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionProgressTimer.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionTween.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAnimation.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAnimationCache.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCCache.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCClippingNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCConfiguration.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCDirector.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCDrawNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLabelBMFont.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLabelTTF.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLayout.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLayoutBox.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCMotionStreak.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNode+Debug.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNodeColor.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleBatchNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleExamples.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleSystem.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleSystemBase.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsBody.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsJoint.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsShape.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCProgressNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCRenderTexture.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCRenderer.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCResponder.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCResponderManager.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScene.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScheduler.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCShader.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSprite.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSprite9Slice.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteBatchNode.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteFrame.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteFrameCache.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTMXXMLParser.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTexture.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTextureCache.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTexturePVR.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapObjectGroup.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTransition.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCDirectorMac.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCGLView.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCWindow.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/NSEvent+CC.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCAppDelegate.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCDirectorIOS.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCES2Renderer.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCGLView.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/UITouch+CC.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCColor.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCFileUtils.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCProfiling.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCVertex.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CGPointExtension.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/NSAttributedString+CCAdditions.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/NSThread+performBlock.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/TGAlib.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/ZipUtils.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/base64.c
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/ccUtils.c
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/ccFPSImages.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/cocos2d.m
+r0
+
+CBuild AST from /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Supporting\ Files/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfe64cc6c1f6bb941^a5bcde6c1f6bb941^---0#1#1#--18"Check dependencies36"C30EFBF1-F1C1-41A4-A80C-687298FC11DD-
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450797.683727
+e426450797.898772
+r1
+xCompileC
+xbuild/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.o
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALWrapper.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/OpenALManager.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/Support/SynthesizeSingleton.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALContext.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALListener.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALTypes.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/Session/OALSuspendHandler.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSource.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSoundSource.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALAction.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/ObjectALConfig.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/Support/ObjectALMacros.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/Support/OALTools.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/Support/ARCSafe_MemMgmt.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m196"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.o Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileree27af6d1f6bb941^a4a9e66d1f6bb941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m0000000000000000^3430"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.o Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator -include /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch -MMD -MT dependencies -MF /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.d --serialize-diagnostics /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.dia -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m -o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALBuffer.o36"B912EE42-0CE6-4277-A961-1E219790B066-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALCaptureDevice.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALCaptureDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALChannelSource.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALChannelSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALContext.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALContext.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALDevice.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALListener.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALSoundSourcePool.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSoundSourcePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALSource.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ALWrapper.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALWrapper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/AppDelegate.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCAction.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCActionCatmullRom.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionCatmullRom.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCActionEase.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionEase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCActionInstant.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionInstant.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCActionInterval.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionInterval.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCActionManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCActionProgressTimer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionProgressTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCActionTween.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionTween.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCAnimation.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAnimation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCAnimationCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAnimationCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCAppDelegate.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCBAnimationManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBAnimationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCBKeyframe.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBKeyframe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCBLocalizationManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBLocalizationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCBReader.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCBSequenceProperty.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBSequenceProperty.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCBsequence.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBsequence.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCButton.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCClippingNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCClippingNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCColor.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCConfiguration.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCConfiguration.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450797.899475
+e426450798.151795
+r0
+xCompileC
+xbuild/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.o
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m:33:
+oIn file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/UITouch+CC.h:31:
+oIn file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/cocos2d.h:157:
+o/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/../../../JEngine/JEngine.h:16:9: fatal error: 'GameSave.h' file not found
+o#import "GameSave.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m193"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.o Lem/Libraries/cocos2d-ui/CCControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler016ee66d1f6bb941^5bd1266e1f6bb941^-497"In file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m:33:In file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/UITouch+CC.h:31:In file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/cocos2d.h:157:/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/../../../JEngine/JEngine.h:16:9: fatal error: 'GameSave.h' file not found#import "GameSave.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@27"'GameSave.h' file not found-426450798#18446744073709551615#0#3(2@105"In file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m:33:-426450798#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@88"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m0000000000000000^32#8#32#8#1329#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/UITouch+CC.h:31:-426450798#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/UITouch+CC.h0000000000000000^30#8#30#8#1277#0#21"Apple LLVM 5.0 Notice--2@101"In file included from /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/cocos2d.h:157:-426450798#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d/cocos2d.h0000000000000000^156#8#156#8#4047#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@51"file:///Users/jfletch1787/Desktop/JEngine/JEngine.h0000000000000000^15#8#15#8#220#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@88"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m0000000000000000^3426"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.o Lem/Libraries/cocos2d-ui/CCControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator -include /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch -MMD -MT dependencies -MF /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.d --serialize-diagnostics /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.dia -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m -o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControl.o36"7276E7EF-CFEB-4325-B743-05907187DD13-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCControlTextureFactory.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControlTextureFactory.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCDirector.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCDirector.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCDirectorIOS.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCDirectorIOS.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCDirectorMac.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCDirectorMac.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCDrawNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCDrawNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCES2Renderer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCES2Renderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCFileUtils.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCFileUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCGLView-67C42408980976F.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCGLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCGLView-96D8AE1D9EA0786D.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCGLView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCLabelBMFont.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLabelBMFont.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCLabelTTF.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLabelTTF.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCLayout.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLayout.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCLayoutBox.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLayoutBox.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCMotionStreak.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCMotionStreak.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCNode+Debug.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNode+Debug.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCNodeColor.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNodeColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450798.014837
+e426450798.135035
+r1
+xCompileC
+xbuild/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.o
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCNode.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/CCGL.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccMacros.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccConfig.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CGPointExtension.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCGLView.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCESRenderer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccTypes.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCProtocols.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CCColor.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponder.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponderManager.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScheduler.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCRenderer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m200"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.o Lem/Libraries/cocos2d/CCParallaxNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler96ed036e1f6bb941^c895226e1f6bb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m0000000000000000^3450"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.o Lem/Libraries/cocos2d/CCParallaxNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator -include /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch -MMD -MT dependencies -MF /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.d --serialize-diagnostics /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.dia -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m -o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParallaxNode.o36"3F4A67FD-310B-4B02-9D46-5E65F2E55101-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParticleBatchNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleBatchNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParticleExamples.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleExamples.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParticleSystem.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleSystem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCParticleSystemBase.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleSystemBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCPhysicsBody.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsBody.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCPhysicsJoint.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsJoint.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCPhysicsNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCPhysicsShape.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsShape.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCProfiling.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCProfiling.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCProgressNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCProgressNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCRenderTexture.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCRenderTexture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCRenderer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCRenderer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCResponder.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCResponder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCResponderManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCResponderManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450797.684369
+e426450797.836205
+r1
+xCompileC
+xbuild/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.o
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScene.m
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScene.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCNode.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/CCGL.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccMacros.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccConfig.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CGPointExtension.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCGLView.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCESRenderer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccTypes.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCProtocols.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CCColor.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponder.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponderManager.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScheduler.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCRenderer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCDirector.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCDirector_Private.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScene.m186"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.o Lem/Libraries/cocos2d/CCScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler664eaf6d1f6bb941^ea91d66d1f6bb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d/CCScene.m0000000000000000^3408"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.o Lem/Libraries/cocos2d/CCScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator -include /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch -MMD -MT dependencies -MF /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.d --serialize-diagnostics /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.dia -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScene.m -o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScene.o36"99EA53CD-3D41-4048-B103-94D1DBCBBD7A-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScheduler.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScheduler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCScrollView.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCScrollView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCShader.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCShader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCSlider.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCSprite.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCSprite9Slice.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSprite9Slice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCSpriteBatchNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteBatchNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCSpriteFrame.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteFrame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCSpriteFrameCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteFrameCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTMXXMLParser.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTMXXMLParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTableView.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTextField.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCTextField.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTexture.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTexture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTextureCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTextureCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTexturePVR.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTexturePVR.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450797.836621
+e426450798.013965
+r1
+xCompileC
+xbuild/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.o
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCNode.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/CCGL.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccMacros.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccConfig.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CGPointExtension.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCGLView.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCESRenderer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccTypes.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCProtocols.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CCColor.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponder.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponderManager.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScheduler.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCRenderer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTMXXMLParser.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCSpriteBatchNode.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapObjectGroup.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCSprite.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTextureCache.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer_Private.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m192"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.o Lem/Libraries/cocos2d/CCTiledMap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler664bd66d1f6bb941^f296036e1f6bb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m0000000000000000^3426"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.o Lem/Libraries/cocos2d/CCTiledMap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator -include /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch -MMD -MT dependencies -MF /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.d --serialize-diagnostics /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.dia -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m -o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMap.o36"92141896-07EA-4319-B08D-6DCE67E94D61-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450798.136060
+e426450798.454640
+r1
+xCompileC
+xbuild/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.o
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCSpriteBatchNode.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCNode.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/CCGL.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccMacros.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccConfig.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CGPointExtension.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCGLView.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCESRenderer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/ccTypes.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCProtocols.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Support/CCColor.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponder.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCResponderManager.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCScheduler.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCRenderer.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTMXXMLParser.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCSprite.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTextureCache.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCShader.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCNode_Private.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCSprite_Private.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer_Private.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTexture_Private.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTexture.h
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/Platforms/CCNS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m202"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.o Lem/Libraries/cocos2d/CCTiledMapLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera52f246e1f6bb941^018a756e1f6bb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m0000000000000000^3456"CompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.o Lem/Libraries/cocos2d/CCTiledMapLayer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator -include /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch -MMD -MT dependencies -MF /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.d --serialize-diagnostics /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.dia -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m -o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapLayer.o36"28F4DE4D-F0F1-4DCC-8926-5C6FA5EA9042-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTiledMapObjectGroup.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapObjectGroup.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCTransition.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTransition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCVertex.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCVertex.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CCWindow.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/CGPointExtension.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CGPointExtension.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/GameState.o /Users/jfletch1787/Desktop/JEngine/GameState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/HelloWorldScene.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/HelloWorldScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/IOSVersion.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/IOSVersion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/IntroScene.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/IntroScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/JLevel.o /Users/jfletch1787/Desktop/JEngine/JLevel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/JSprite.o /Users/jfletch1787/Desktop/JEngine/JSprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/Level.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Level.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/NSAttributedString+CCAdditions.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/NSAttributedString+CCAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/NSEvent+CC.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/NSEvent+CC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/NSMutableArray+WeakReferences.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/NSMutableArray+WeakReferences.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/NSMutableDictionary+WeakReferences.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/NSMutableDictionary+WeakReferences.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/NSThread+performBlock.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/NSThread+performBlock.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALAction.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALAction.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALActionManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALActionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALAudioActions.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALAudioActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALAudioFile.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/OALAudioFile.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALAudioSession.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Session/OALAudioSession.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALAudioTrack.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTrack.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALAudioTrackNotifications.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTrackNotifications.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALAudioTracks.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTracks.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALSimpleAudio.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OALSimpleAudio.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALSuspendHandler.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Session/OALSuspendHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALTools.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/OALTools.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OALUtilityActions.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALUtilityActions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/OpenALManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/OpenALManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/TGAlib.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/TGAlib.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/UITouch+CC.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/UITouch+CC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ZipUtils.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/ZipUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/base64.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/base64.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ccFPSImages.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/ccFPSImages.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/ccUtils.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/ccUtils.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/cocos2d.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/cocos2d.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/mach_timing.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/mach_timing.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/main.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Supporting\ Files/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALBuffer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALBuffer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALCaptureDevice.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALCaptureDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALChannelSource.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALChannelSource.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALContext.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALContext.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALDevice.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALDevice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALListener.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALListener.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALSoundSourcePool.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSoundSourcePool.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALSource.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALSource.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ALWrapper.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/ALWrapper.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/AppDelegate.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCAction.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCActionCatmullRom.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionCatmullRom.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCActionEase.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionEase.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCActionInstant.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionInstant.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCActionInterval.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionInterval.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCActionManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCActionProgressTimer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionProgressTimer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCActionTween.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCActionTween.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCAnimation.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAnimation.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCAnimationCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCAnimationCache.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCAppDelegate.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCBAnimationManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBAnimationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCBKeyframe.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBKeyframe.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCBLocalizationManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBLocalizationManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCBReader.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCBSequenceProperty.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBSequenceProperty.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCBsequence.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/CCBReader/CCBsequence.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCButton.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCCache.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCClippingNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCClippingNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCColor.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCColor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCConfiguration.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCConfiguration.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCControl.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControl.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCControlTextureFactory.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCControlTextureFactory.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCDirector.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCDirector.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCDirectorIOS.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCDirectorIOS.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCDirectorMac.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCDirectorMac.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCDrawNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCDrawNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCES2Renderer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCES2Renderer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCFileUtils.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCFileUtils.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCGLView-67C42408980976F.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/CCGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCGLView-96D8AE1D9EA0786D.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCGLView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCLabelBMFont.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLabelBMFont.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCLabelTTF.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLabelTTF.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCLayout.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLayout.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCLayoutBox.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCLayoutBox.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCMotionStreak.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCMotionStreak.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCNode+Debug.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNode+Debug.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCNodeColor.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCNodeColor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCParallaxNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParallaxNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCParticleBatchNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleBatchNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCParticleExamples.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleExamples.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCParticleSystem.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleSystem.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCParticleSystemBase.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCParticleSystemBase.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCPhysicsBody.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsBody.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCPhysicsJoint.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsJoint.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCPhysicsNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCPhysicsShape.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCPhysicsShape.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCProfiling.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCProfiling.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCProgressNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCProgressNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCRenderTexture.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCRenderTexture.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCRenderer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCRenderer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCResponder.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCResponder.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCResponderManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCResponderManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCScene.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCScheduler.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCScheduler.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCScrollView.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCScrollView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCShader.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCShader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCSlider.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCSlider.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCSprite.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSprite.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCSprite9Slice.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSprite9Slice.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCSpriteBatchNode.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteBatchNode.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCSpriteFrame.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteFrame.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCSpriteFrameCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCSpriteFrameCache.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTMXXMLParser.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTMXXMLParser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTableView.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCTableView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTextField.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d-ui/CCTextField.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTexture.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTexture.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTextureCache.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTextureCache.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTexturePVR.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTexturePVR.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTiledMap.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMap.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTiledMapLayer.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapLayer.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTiledMapObjectGroup.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTiledMapObjectGroup.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCTransition.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/CCTransition.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCVertex.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CCVertex.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CCWindow.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/CCWindow.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/CGPointExtension.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/CGPointExtension.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/GameState.o /Users/jfletch1787/Desktop/JEngine/GameState.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/HelloWorldScene.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/HelloWorldScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/IOSVersion.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/IOSVersion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/IntroScene.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Classes/IntroScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/JLevel.o /Users/jfletch1787/Desktop/JEngine/JLevel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/JSprite.o /Users/jfletch1787/Desktop/JEngine/JSprite.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/Level.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Level.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/NSAttributedString+CCAdditions.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/NSAttributedString+CCAdditions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/NSEvent+CC.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/Mac/NSEvent+CC.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/NSMutableArray+WeakReferences.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/NSMutableArray+WeakReferences.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/NSMutableDictionary+WeakReferences.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/NSMutableDictionary+WeakReferences.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/NSThread+performBlock.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/NSThread+performBlock.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALAction.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALAction.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALActionManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALActionManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALAudioActions.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALAudioActions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALAudioFile.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/OALAudioFile.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALAudioSession.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Session/OALAudioSession.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALAudioTrack.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTrack.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALAudioTrackNotifications.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTrackNotifications.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALAudioTracks.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/AudioTrack/OALAudioTracks.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALSimpleAudio.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OALSimpleAudio.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALSuspendHandler.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Session/OALSuspendHandler.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALTools.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/OALTools.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OALUtilityActions.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Actions/OALUtilityActions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/OpenALManager.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/OpenAL/OpenALManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/TGAlib.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/TGAlib.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/UITouch+CC.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Platforms/iOS/UITouch+CC.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ZipUtils.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/ZipUtils.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/base64.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/base64.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ccFPSImages.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/ccFPSImages.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/ccUtils.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/Support/ccUtils.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/cocos2d.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/cocos2d/cocos2d.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/mach_timing.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/ObjectAL/Support/mach_timing.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/main.o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Supporting\ Files/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCpResource /Users/jfletch1787/Desktop/JEngine/GameSave build/Debug-iphonesimulator/Lem.app/GameSave
+r0
+
+CCpResource /Users/jfletch1787/Desktop/JEngine/Hud build/Debug-iphonesimulator/Lem.app/Hud
+r0
+
+CCpResource /Users/jfletch1787/Desktop/JEngine/Physics build/Debug-iphonesimulator/Lem.app/Physics
+r0
+
+CCpResource /Users/jfletch1787/Desktop/JEngine/resources build/Debug-iphonesimulator/Lem.app/resources
+r0
+
+CCpResource Lem/Libraries/LICENSE_CCBReader.txt build/Debug-iphonesimulator/Lem.app/LICENSE_CCBReader.txt
+r0
+
+CCpResource Lem/Libraries/LICENSE_Chipmunk.txt build/Debug-iphonesimulator/Lem.app/LICENSE_Chipmunk.txt
+r0
+
+CCpResource Lem/Libraries/LICENSE_cocos2d.txt build/Debug-iphonesimulator/Lem.app/LICENSE_cocos2d.txt
+r0
+
+CCpResource Lem/Resources/Default-568h@2x.png build/Debug-iphonesimulator/Lem.app/Default-568h@2x.png
+r0
+
+CCpResource Lem/Resources/Default-Landscape~ipad.png build/Debug-iphonesimulator/Lem.app/Default-Landscape~ipad.png
+r0
+
+CCpResource Lem/Resources/Default.png build/Debug-iphonesimulator/Lem.app/Default.png
+r0
+
+CCpResource Lem/Resources/Default@2x.png build/Debug-iphonesimulator/Lem.app/Default@2x.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-120.png build/Debug-iphonesimulator/Lem.app/Icon-120.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-72.png build/Debug-iphonesimulator/Lem.app/Icon-72.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-72@2x.png build/Debug-iphonesimulator/Lem.app/Icon-72@2x.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-76.png build/Debug-iphonesimulator/Lem.app/Icon-76.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-76@2x.png build/Debug-iphonesimulator/Lem.app/Icon-76@2x.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-Small-50.png build/Debug-iphonesimulator/Lem.app/Icon-Small-50.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-Small.png build/Debug-iphonesimulator/Lem.app/Icon-Small.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-Small@2x.png build/Debug-iphonesimulator/Lem.app/Icon-Small@2x.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-Spotlight-iOS7.png build/Debug-iphonesimulator/Lem.app/Icon-Spotlight-iOS7.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-Spotlight-iOS7@2x.png build/Debug-iphonesimulator/Lem.app/Icon-Spotlight-iOS7@2x.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon-iPad-Spotlight-iOS7@2x.png build/Debug-iphonesimulator/Lem.app/Icon-iPad-Spotlight-iOS7@2x.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon.png build/Debug-iphonesimulator/Lem.app/Icon.png
+r0
+
+CCpResource Lem/Resources/Icons/Icon@2x.png build/Debug-iphonesimulator/Lem.app/Icon@2x.png
+r0
+
+CCpResource iTunesArtwork build/Debug-iphonesimulator/Lem.app/iTunesArtwork
+r0
+
+CCpResource iTunesArtwork@2x build/Debug-iphonesimulator/Lem.app/iTunesArtwork@2x
+r0
+
+CCreateUniversalBinary /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app/Lem normal i386\ x86_64
+r0
+
+CGenerateDSYMFile /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app.dSYM /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app/Lem
+r0
+
+CLd /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/i386/Lem normal i386
+r0
+
+CLd /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Objects-normal/x86_64/Lem normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app/Info.plist /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Resources/Info.plist
+s426450796.872225
+e426450796.875068
+r1
+xProcessInfoPlistFile
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/build/Debug-iphonesimulator/Lem.app/Info.plist
+x/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Resources/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Process /Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Resources/Info.plist92"ProcessInfoPlistFile build/Debug-iphonesimulator/Lem.app/Info.plist Lem/Resources/Info.plist5b60df6c1f6bb941^6005e06c1f6bb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Resources/Info.plist0000000000000000^694"ProcessInfoPlistFile build/Debug-iphonesimulator/Lem.app/Info.plist Lem/Resources/Info.plist    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Resources/Info.plist -genpkginfo /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app/Info.plist36"7D5B2237-341F-492E-9D48-B2ABB2935591-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CProcessPCH /Users/jfletch1787/Library/Developer/Xcode/DerivedData/Lem-hjqcmnytcpzprsbdwnxaxodycsfg/Index/PrecompiledHeaders/Prefix-benakfzibbxqilcvihpfrglyxxqw_ast/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jfletch1787/Library/Developer/Xcode/DerivedData/Lem-hjqcmnytcpzprsbdwnxaxodycsfg/Index/PrecompiledHeaders/Prefix-cepldzbijybwmhaxkjngzyixhxxg_ast/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jfletch1787/Library/Developer/Xcode/DerivedData/Lem-hjqcmnytcpzprsbdwnxaxodycsfg/Index/PrecompiledHeaders/Prefix-gscktoetlwrgrabkhaphjsfzltfu_ast/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jfletch1787/Library/Developer/Xcode/DerivedData/Lem-hjqcmnytcpzprsbdwnxaxodycsfg/Index/PrecompiledHeaders/Prefix-hkydptoxzvmzyiavkycaiiaohsrs_ast/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450796.906756
+e426450797.680443
+r1
+xProcessPCH
+x/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.pch
+xLem/Supporting Files/Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Supporting Files/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Lem/Supporting Files/Prefix.pch282"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere140e86c1f6bb941^1134ae6d1f6bb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Supporting%20Files/Prefix.pch0000000000000000^3476"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/x86_64 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.d -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Supporting\ Files/Prefix.pch -o /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-afsyzylcvpmyswhjiiimqmsmnjjg/Prefix.pch.pch36"D58C4DE6-3271-436E-A1A9-7B247194859A-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426450796.875993
+e426450797.479813
+r1
+xProcessPCH
+x/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.pch
+xLem/Supporting Files/Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Supporting Files/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Lem/Supporting Files/Prefix.pch280"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6764e06c1f6bb941^65de7a6d1f6bb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Supporting%20Files/Prefix.pch0000000000000000^3473"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.d -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Supporting\ Files/Prefix.pch -o /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-axuvsuhgrwztqseskqttmqhahkmx/Prefix.pch.pch36"AA468EAA-330D-4711-9FA3-0BC9665F4351-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s426450797.481199
+e426450797.682489
+r1
+xProcessPCH
+x/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.pch
+xLem/Supporting Files/Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Supporting Files/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Lem/Supporting Files/Prefix.pch272"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler325a7b6d1f6bb941^6cd1ae6d1f6bb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Supporting%20Files/Prefix.pch0000000000000000^3208"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/x86_64 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.d -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Supporting\ Files/Prefix.pch -o /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-bjzkbdhjxknvnhgkmdhtdpqzlxxm/Prefix.pch.pch36"01440D21-FFE2-467B-8D42-3AE7E1A306CF-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s426450796.877820
+e426450796.906486
+r1
+xProcessPCH
+x/var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.pch
+xLem/Supporting Files/Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jfletch1787/Desktop/iPhone Apps/Lem/Lem/Supporting Files/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile Lem/Supporting Files/Prefix.pch270"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler66dce06c1f6bb941^e15fe86c1f6bb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/jfletch1787/Desktop/iPhone%20Apps/Lem/Lem/Supporting%20Files/Prefix.pch0000000000000000^3205"ProcessPCH /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.pch Lem/Supporting\ Files/Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jfletch1787/Desktop/iPhone Apps/Lem"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG -DCOCOS2D_DEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-generated-files.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-own-target-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-all-target-headers.hmap -iquote /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/Lem-project-headers.hmap -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/chipmunk/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Libraries/Chipmunk/objectivec/include -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources/i386 -I/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Lem.build/Debug-iphonesimulator/Lem.build/DerivedSources -F/Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.d -c /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/Lem/Supporting\ Files/Prefix.pch -o /var/folders/l0/7tc6j9hd0cvfn1088kw_dmbm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Prefix-fsxzvaldajyfdegdgiurpmrxvuzo/Prefix.pch.pch36"99FEA32A-20AE-446F-944D-518880BE9B00-
+bC492BF8C-13A6-476A-9BC2-05B7B5C32E3A
+
+CTouch /Users/jfletch1787/Desktop/iPhone\ Apps/Lem/build/Debug-iphonesimulator/Lem.app
+r0
+

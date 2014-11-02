@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="103" height="32" tilewidth="20" tileheight="20">
+ <tileset firstgid="1" name="pplayer" tilewidth="20" tileheight="20">
+  <image source="../../level maps/pplayer.png" width="30" height="20"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="103" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U5/gBlUBAAAAAAAAAAAAAAAAzwAzgAAB
+  </data>
+ </layer>
+ <objectgroup color="#a41300" name="floors" width="103" height="32"/>
+ <objectgroup color="#a4009b" name="walls" width="103" height="32"/>
+ <objectgroup color="#2fa400" name="spawn" width="103" height="32">
+  <object x="760" y="160" width="20" height="20"/>
+ </objectgroup>
+ <objectgroup color="#ffdd00" name="exit" width="103" height="32">
+  <object x="1180" y="260" width="20" height="20"/>
+ </objectgroup>
+ <objectgroup color="#000000" name="info" width="103" height="32">
+  <properties>
+   <property name="jobs" value="timetraveler,builder,bomber"/>
+   <property name="lemsNeededToWin" value="1"/>
+   <property name="levelNumber" value="999"/>
+   <property name="maxLems" value="100"/>
+   <property name="startingLems" value="99"/>
+  </properties>
+  <object x="1000" y="180" width="20" height="20"/>
+ </objectgroup>
+ <imagelayer name="Image Layer 1" width="103" height="32">
+  <image source="LevelEditorBG.png"/>
+ </imagelayer>
+</map>

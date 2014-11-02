@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="32" tilewidth="20" tileheight="20">
+ <tileset firstgid="1" name="pplayer" tilewidth="20" tileheight="20">
+  <image source="pplayer.png" width="30" height="20"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="60" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAADwYeAAAB
+  </data>
+ </layer>
+ <objectgroup color="#a41300" name="floors" width="60" height="32">
+  <object x="180" y="220" width="320" height="20"/>
+  <object x="400" y="440" width="680" height="20"/>
+ </objectgroup>
+ <objectgroup color="#a4009b" name="walls" width="60" height="32"/>
+ <objectgroup color="#2fa400" name="spawn" width="60" height="32">
+  <object x="260" y="120" width="20" height="20"/>
+ </objectgroup>
+ <objectgroup color="#ffdd00" name="exit" width="60" height="32">
+  <object x="880" y="400" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup color="#000000" name="info" width="60" height="32">
+  <properties>
+   <property name="jobs" value="parachute"/>
+   <property name="lemsNeededToWin" value="5"/>
+   <property name="levelNumber" value="2"/>
+   <property name="maxLems" value="20"/>
+   <property name="startingLems" value="10"/>
+  </properties>
+ </objectgroup>
+</map>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="32" tilewidth="20" tileheight="20">
+ <tileset firstgid="1" name="pplayer" tilewidth="20" tileheight="20">
+  <image source="pplayer.png" width="30" height="20"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="60" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAADwYeAAAB
+  </data>
+ </layer>
+ <objectgroup color="#a41300" name="floors" width="60" height="32">
+  <object x="580" y="40" width="620" height="200"/>
+  <object x="380" y="60" width="340" height="20"/>
+ </objectgroup>
+ <objectgroup color="#a4009b" name="walls" width="60" height="32">
+  <object x="520" y="120" width="120" height="140"/>
+ </objectgroup>
+ <objectgroup color="#2fa400" name="spawn" width="60" height="32">
+  <object x="100" y="240" width="20" height="20"/>
+ </objectgroup>
+ <objectgroup color="#ffe400" name="exit" width="60" height="32">
+  <object x="720" y="280" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup color="#000000" name="info" width="60" height="32">
+  <properties>
+   <property name="jobs" value="parachute,timetraveler,builder"/>
+   <property name="lemsNeededToWin" value="1"/>
+   <property name="levelNumber" value="0"/>
+   <property name="maxLems" value="20"/>
+   <property name="startingLems" value="5"/>
+  </properties>
+  <object x="260" y="280"/>
+ </objectgroup>
+</map>
