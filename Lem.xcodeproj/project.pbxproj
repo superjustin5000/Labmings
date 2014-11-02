@@ -26,10 +26,8 @@
 		6458D0101972CD1D00EA6441 /* PauseButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D00F1972CD1D00EA6441 /* PauseButton.m */; };
 		6458D013197360BA00EA6441 /* PauseLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D012197360BA00EA6441 /* PauseLayer.m */; };
 		6458D0191975CF1100EA6441 /* LemExit.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D0181975CF1100EA6441 /* LemExit.m */; };
-		6458D01B1975DED700EA6441 /* Level1.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 6458D01A1975DED700EA6441 /* Level1.tmx */; };
 		6458D01E1975DEE300EA6441 /* Level2.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D01D1975DEE300EA6441 /* Level2.m */; };
 		6458D0211975E42E00EA6441 /* LevelStats.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D0201975E42E00EA6441 /* LevelStats.m */; };
-		6458D0231975E6B700EA6441 /* Level2.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 6458D0221975E6B700EA6441 /* Level2.tmx */; };
 		6458D0261975F6CD00EA6441 /* TestLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6458D0251975F6CD00EA6441 /* TestLevel.m */; };
 		649A65E41A06B78A0045A590 /* GameSave.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65E11A06B78A0045A590 /* GameSave.m */; };
 		649A65E51A06B78A0045A590 /* GameSaveKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65E31A06B78A0045A590 /* GameSaveKey.m */; };
@@ -39,6 +37,9 @@
 		649A65F81A06B7C10045A590 /* GameState.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65F11A06B7C10045A590 /* GameState.m */; };
 		649A65F91A06B7C10045A590 /* JLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65F41A06B7C10045A590 /* JLevel.m */; };
 		649A65FA1A06B7C10045A590 /* JSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 649A65F61A06B7C10045A590 /* JSprite.m */; };
+		649A65FE1A06BB250045A590 /* Level1.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FB1A06BB250045A590 /* Level1.tmx */; };
+		649A65FF1A06BB250045A590 /* Level2.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FC1A06BB250045A590 /* Level2.tmx */; };
+		649A66001A06BB250045A590 /* TestLevel.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 649A65FD1A06BB250045A590 /* TestLevel.tmx */; };
 		64AC757E198A92A600709D6E /* LemStart.m in Sources */ = {isa = PBXBuildFile; fileRef = 64AC757D198A92A600709D6E /* LemStart.m */; };
 		64AC7581198E953200709D6E /* pauseEffectShader.fsh in Resources */ = {isa = PBXBuildFile; fileRef = 64AC7580198E953200709D6E /* pauseEffectShader.fsh */; };
 		64AC758B1991376000709D6E /* pauseEffectMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 64AC758A1991376000709D6E /* pauseEffectMask.png */; };
@@ -48,7 +49,6 @@
 		64CE551D198576B60038EA03 /* Menu.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551C198576B60038EA03 /* Menu.m */; };
 		64CE552019857A590038EA03 /* LevelEditor.m in Sources */ = {isa = PBXBuildFile; fileRef = 64CE551F19857A590038EA03 /* LevelEditor.m */; };
 		64CE55251985804B0038EA03 /* LevelEditorBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 64CE55231985804B0038EA03 /* LevelEditorBG.png */; };
-		64D71CDF196EDD44005F1ABB /* TestLevel.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 64D71CDE196EDD44005F1ABB /* TestLevel.tmx */; };
 		64D71CE8196F23C1005F1ABB /* JobButtons.m in Sources */ = {isa = PBXBuildFile; fileRef = 64D71CE7196F23C1005F1ABB /* JobButtons.m */; };
 		64E1FE95197ECB2C00C37A4C /* testCMF.png in Resources */ = {isa = PBXBuildFile; fileRef = 64E1FE94197ECB2C00C37A4C /* testCMF.png */; };
 		64E4BCF7196B1DBF001C021F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64E4BCF6196B1DBF001C021F /* QuartzCore.framework */; };
@@ -275,12 +275,10 @@
 		6458D012197360BA00EA6441 /* PauseLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PauseLayer.m; sourceTree = "<group>"; };
 		6458D0171975CF1100EA6441 /* LemExit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LemExit.h; sourceTree = "<group>"; };
 		6458D0181975CF1100EA6441 /* LemExit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LemExit.m; sourceTree = "<group>"; };
-		6458D01A1975DED700EA6441 /* Level1.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = Level1.tmx; path = "../../../APP FILES/Lem/level maps/Level1.tmx"; sourceTree = "<group>"; };
 		6458D01C1975DEE300EA6441 /* Level2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Level2.h; sourceTree = "<group>"; };
 		6458D01D1975DEE300EA6441 /* Level2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Level2.m; sourceTree = "<group>"; };
 		6458D01F1975E42E00EA6441 /* LevelStats.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LevelStats.h; sourceTree = "<group>"; };
 		6458D0201975E42E00EA6441 /* LevelStats.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LevelStats.m; sourceTree = "<group>"; };
-		6458D0221975E6B700EA6441 /* Level2.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = Level2.tmx; path = "../../../APP FILES/Lem/level maps/Level2.tmx"; sourceTree = "<group>"; };
 		6458D0241975F6CD00EA6441 /* TestLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestLevel.h; sourceTree = "<group>"; };
 		6458D0251975F6CD00EA6441 /* TestLevel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestLevel.m; sourceTree = "<group>"; };
 		649A65E01A06B78A0045A590 /* GameSave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameSave.h; sourceTree = "<group>"; };
@@ -301,6 +299,9 @@
 		649A65F51A06B7C10045A590 /* JSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSprite.h; sourceTree = "<group>"; };
 		649A65F61A06B7C10045A590 /* JSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSprite.m; sourceTree = "<group>"; };
 		649A65F71A06B7C10045A590 /* macros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = macros.h; sourceTree = "<group>"; };
+		649A65FB1A06BB250045A590 /* Level1.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Level1.tmx; sourceTree = "<group>"; };
+		649A65FC1A06BB250045A590 /* Level2.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Level2.tmx; sourceTree = "<group>"; };
+		649A65FD1A06BB250045A590 /* TestLevel.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = TestLevel.tmx; sourceTree = "<group>"; };
 		64AC757C198A92A600709D6E /* LemStart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LemStart.h; sourceTree = "<group>"; };
 		64AC757D198A92A600709D6E /* LemStart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LemStart.m; sourceTree = "<group>"; };
 		64AC7580198E953200709D6E /* pauseEffectShader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = pauseEffectShader.fsh; sourceTree = "<group>"; };
@@ -313,7 +314,6 @@
 		64CE551E19857A590038EA03 /* LevelEditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LevelEditor.h; sourceTree = "<group>"; };
 		64CE551F19857A590038EA03 /* LevelEditor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LevelEditor.m; sourceTree = "<group>"; };
 		64CE55231985804B0038EA03 /* LevelEditorBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LevelEditorBG.png; sourceTree = "<group>"; };
-		64D71CDE196EDD44005F1ABB /* TestLevel.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = TestLevel.tmx; path = "../../../APP FILES/Lem/level maps/TestLevel.tmx"; sourceTree = "<group>"; };
 		64D71CE6196F23C1005F1ABB /* JobButtons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JobButtons.h; sourceTree = "<group>"; };
 		64D71CE7196F23C1005F1ABB /* JobButtons.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JobButtons.m; sourceTree = "<group>"; };
 		64E1FE94197ECB2C00C37A4C /* testCMF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = testCMF.png; path = "../../../APP FILES/Lem/test/testCMF.png"; sourceTree = "<group>"; };
@@ -724,9 +724,9 @@
 		6498BB0C196C3D9B0031C109 /* maps */ = {
 			isa = PBXGroup;
 			children = (
-				6458D01A1975DED700EA6441 /* Level1.tmx */,
-				6458D0221975E6B700EA6441 /* Level2.tmx */,
-				64D71CDE196EDD44005F1ABB /* TestLevel.tmx */,
+				649A65FB1A06BB250045A590 /* Level1.tmx */,
+				649A65FC1A06BB250045A590 /* Level2.tmx */,
+				649A65FD1A06BB250045A590 /* TestLevel.tmx */,
 			);
 			name = maps;
 			sourceTree = "<group>";
@@ -1721,7 +1721,6 @@
 			files = (
 				64B43F671994879D00805AA6 /* flashLightShader.fsh in Resources */,
 				6411B7E81999C2CE00B87293 /* digMaskBlue.png in Resources */,
-				64D71CDF196EDD44005F1ABB /* TestLevel.tmx in Resources */,
 				64AC758F1991D14300709D6E /* LevelEditor.tmx in Resources */,
 				6411B7EE1999C2CE00B87293 /* digMaskRed.png in Resources */,
 				64E4BD15196B1DC0001C021F /* Default@2x.png in Resources */,
@@ -1735,11 +1734,11 @@
 				64E4BD1C196B1DC0001C021F /* Icon.png in Resources */,
 				6411B7F5199B90F800B87293 /* digMaskCircle.png in Resources */,
 				6411B7E91999C2CE00B87293 /* digMaskBlueBig.png in Resources */,
-				6458D0231975E6B700EA6441 /* Level2.tmx in Resources */,
 				64AC758D199147B500709D6E /* pauseEffectRGBStrip.png in Resources */,
 				6458D00919717C3300EA6441 /* spritesheet_test.plist in Resources */,
 				6411B7EA1999C2CE00B87293 /* digMaskBlueSmall.png in Resources */,
 				6411B7E61999C2CE00B87293 /* digMask.png in Resources */,
+				649A65FF1A06BB250045A590 /* Level2.tmx in Resources */,
 				64E4BD2A196B1DC0001C021F /* Icon-iPad-Spotlight-iOS7@2x.png in Resources */,
 				64E4BD19196B1DC0001C021F /* Default-Landscape~ipad.png in Resources */,
 				64E4BD2E196B1DC0001C021F /* Icon-Small.png in Resources */,
@@ -1747,8 +1746,10 @@
 				6411B7F01999C2CE00B87293 /* digMaskRedSmall.png in Resources */,
 				64E4BF9B196B2000001C021F /* dpad.png in Resources */,
 				64E1FE95197ECB2C00C37A4C /* testCMF.png in Resources */,
+				649A66001A06BB250045A590 /* TestLevel.tmx in Resources */,
 				64E4BD2C196B1DC0001C021F /* Icon-Small-50.png in Resources */,
 				64E4BF9A196B2000001C021F /* bButton.png in Resources */,
+				649A65FE1A06BB250045A590 /* Level1.tmx in Resources */,
 				64AC758B1991376000709D6E /* pauseEffectMask.png in Resources */,
 				6411B7F11999C2CE00B87293 /* digMaskSmall.png in Resources */,
 				64E4BF44196B1DC4001C021F /* LICENSE_Chipmunk.txt in Resources */,
@@ -1757,7 +1758,6 @@
 				64E4BED6196B1DC3001C021F /* LICENSE_CCBReader.txt in Resources */,
 				6411B7EF1999C2CE00B87293 /* digMaskRedBig.png in Resources */,
 				64CE55251985804B0038EA03 /* LevelEditorBG.png in Resources */,
-				6458D01B1975DED700EA6441 /* Level1.tmx in Resources */,
 				6458D00A19717C3300EA6441 /* spritesheet_test.png in Resources */,
 				64E4BE4A196B1DC2001C021F /* LICENSE_cocos2d.txt in Resources */,
 				6411B7EB1999C2CE00B87293 /* digMaskGreen.png in Resources */,
