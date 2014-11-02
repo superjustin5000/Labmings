@@ -38,18 +38,24 @@
     
     CCButton *start = [CCButton buttonWithTitle:@"Start Game"];
     CCButton *edit = [CCButton buttonWithTitle:@"Level Editor"];
+    CCButton *social = [CCButton buttonWithTitle:@"Social"];
+    
     
     start.position = ccp(gs.winSize.width/2, gs.winSize.height/2 + 50);
     edit.position = ccp(gs.winSize.width/2, gs.winSize.height/2 - 50);
+    social.position = ccp(edit.position.x, edit.position.y - (edit.contentSize.height)*3.5);
     
     start.scale = 3;
     edit.scale = 3;
+    social.scale = 3;
     
     [start setTarget:self selector:@selector(pressedStart)];
     [edit setTarget:self selector:@selector(pressedEdit)];
     
+    
     [self addChild:start];
     [self addChild:edit];
+    [self addChild:(social)];
     
     
     return self;
